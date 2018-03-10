@@ -5,6 +5,7 @@
   "main": "src/index.js",
   "author": "Ashoat Tevosyan (https://github.com/ashoat)",
   "license": "BSD-2-Clause",
+  "types": "./src/index.d.ts",
   "repository": {
     "url": "git@github.com:react-navigation/react-navigation-redux-helpers.git",
     "type": "git"
